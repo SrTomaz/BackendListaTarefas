@@ -11,7 +11,6 @@ As tarefas são persistidas localmente em um banco de dados Better-SQLite.
 - better-sqlite3: Manipulação do banco de dados SQLite de forma síncrona
 - socket.io: Comunicação em tempo real com os clientes via WebSocket
 - cors: Habilita o compartilhamento de recursos entre diferentes origens
-- dotenv: Carrega variáveis de ambiente de um arquivo `.env`
 
 Comandos de instalação:
 
